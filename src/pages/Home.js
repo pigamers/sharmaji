@@ -8,7 +8,6 @@ function Home() {
         <Hero />
         <hr className='h-px w-3/4 m-auto border-0 bg-five' />
         <SectionOne />
-        
     </div>
   )
 }

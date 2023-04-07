@@ -17,7 +17,7 @@ const Navbar = (props) => {
   // const [darkMode, setDarkMode] = useState(false);
 return (
   <>
-  <div className='shadow-md w-full fixed top-0 left-0'>
+  <div className='shadow-md w-full fixed z-50 top-0 left-0'>
     <div className='md:flex items-center justify-between bg-one py-3 md:px-10 px-5 dark:bg-three'>
     <div className='font-fonty text-2xl cursor-pointer flex text-three hover:text-four'>
       <span className='text-3xl mr-1 pt-2 flex'>
