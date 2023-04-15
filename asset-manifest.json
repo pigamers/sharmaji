@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sharmaji/static/css/main.9609e725.css",
+    "main.js": "/sharmaji/static/js/main.6d63ba4b.js",
+    "static/js/787.d2c91472.chunk.js": "/sharmaji/static/js/787.d2c91472.chunk.js",
+    "static/media/hero.jpg": "/sharmaji/static/media/hero.4deac523427356fc82b3.jpg",
+    "index.html": "/sharmaji/index.html",
+    "main.9609e725.css.map": "/sharmaji/static/css/main.9609e725.css.map",
+    "main.6d63ba4b.js.map": "/sharmaji/static/js/main.6d63ba4b.js.map",
+    "787.d2c91472.chunk.js.map": "/sharmaji/static/js/787.d2c91472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9609e725.css",
+    "static/js/main.6d63ba4b.js"
+  ]
+}
